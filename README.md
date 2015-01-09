@@ -1,3 +1,3 @@
-# euler
+# Claire's Euler Projects
 
-Solutions for Euler Project.
+Going from programming idiot to python whiz
